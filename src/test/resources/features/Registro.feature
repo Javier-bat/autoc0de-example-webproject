@@ -4,7 +4,7 @@
      Given El usuario esta en la pantalla home
      And La navbar se muestra correctamente
 
-  @registroOk @smoke
+  @registroOk @Smoke
   Scenario: Registro de usuario demoblaze - Exitoso
     When El usuario presiona el boton de registro
     And Se visualiza el modal de registro

@@ -4,7 +4,7 @@ Feature: Login de usuario demoblaze
     Given El usuario esta en la pantalla home
     And La navbar se muestra correctamente
 
-  @loginlogoutOK @smoke
+  @loginlogoutOK @Smoke
   Scenario: Login y logout exitoso
     When El usuario presiona el boton login
     And Se visualiza el modal de login

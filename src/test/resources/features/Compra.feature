@@ -4,7 +4,7 @@ Feature: Compra de producto
     Given El usuario esta en la pantalla home
     And La navbar se muestra correctamente
 
-  @addLaptopToCart @smoke
+  @addLaptopToCart @Smoke
   Scenario: Agregar y verificar productos en carrito
     When El usuario presiona la categoria 'Laptops'
     And El usuario presiona el resultado numero "1"
