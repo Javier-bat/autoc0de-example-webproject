@@ -26,4 +26,4 @@
 ```
 Ejecutar html desde un navegador. Se visualizara los features ejecutados y los resultados de los mismos
 
-![ExtentReport example](img/report2.PNG)
+![ExtentReport example](img/report2.png)
